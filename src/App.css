@@ -1,0 +1,19 @@
+
+input{
+  width: 100%;
+  
+  font-weight: 700;
+}
+
+.item-container{
+  text-align: left;
+
+}
+
+.todo-row{
+  margin: 14px;
+}
+
+button{
+ width: 100%;
+}

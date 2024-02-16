@@ -1,0 +1,42 @@
+.input{
+  width: 100%;
+  font-weight: 500;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  height: 40px;
+  position: relative;
+  top:10px
+}
+
+.button{
+  width: 50%;
+  height: 40px;
+  margin-top: 10px;
+  border-radius: 9px;
+  border: none;
+  color: white;
+  float: left;
+
+}
+
+@media screen and (max-width: 600px) {
+  .input{
+    width: 50%;
+    font-weight: 500;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    height: 40px;
+    position: relative;
+    top:10px
+  }
+
+  .button{
+    width: 30%;
+    height: 30px;
+    margin-top:25px;
+    border-radius: 9px;
+    border: none;
+    color: white;
+    float: none;
+  
+  }
+  
+}
